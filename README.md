@@ -1,4 +1,4 @@
-### Hi there, I'm Pavan - aka [l_user][] 👋
+### Hi there, I'm Pavan - aka [l_user][website] 👋
 
 ## I'm a Full Stack Web Developer, Bug Hunter, Chess Player, and many More!
 
