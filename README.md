@@ -43,12 +43,10 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<summary>:zap: Github Stats</summary>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NookaPavan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NookaPavan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
-</details>
 
 [website]: https://github.com/NookaPavan/NookaPavan
 [twitter]: google.com
