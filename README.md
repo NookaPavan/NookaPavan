@@ -34,6 +34,15 @@
 <br />
 <br />
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 [website]: https://github.com/NookaPavan/NookaPavan
 [twitter]: google.com
 [youtube]: https://www.youtube.com/channel/UC_qRV7wvFlFgpxC40Dgubsw
