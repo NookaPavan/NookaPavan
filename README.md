@@ -8,12 +8,11 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play and make Videos of Chess
 
-
 ### Connect with me:
 
-<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="thechessnuts | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="PavanNooka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pa_1_rockz007 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -34,8 +33,8 @@
 <br />
 <br />
 
-[website]: 
-[twitter]: 
+[website]: google.com
+[twitter]: google.com
 [youtube]: https://www.youtube.com/channel/UC_qRV7wvFlFgpxC40Dgubsw
 [instagram]: https://www.instagram.com/pa_1_rockz007
 [linkedin]: https://www.linkedin.com/in/pavan-nooka-a6705918b
