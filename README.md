@@ -43,6 +43,13 @@
 
 ---
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NookaPavan&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://github.com/NookaPavan/NookaPavan
 [twitter]: google.com
 [youtube]: https://www.youtube.com/channel/UC_qRV7wvFlFgpxC40Dgubsw
