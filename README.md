@@ -8,8 +8,6 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play and make Videos of Chess
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />]()
 
 ### Connect with me:
 
