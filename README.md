@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-nooka-a6705918b)][linkedin]
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pa_1_rockz007)][instagram]
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC_qRV7wvFlFgpxC40Dgubsw)][youtube]
+[![Youtube Badge](https://img.shields.io/badge/-thechessnuts-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC_qRV7wvFlFgpxC40Dgubsw)][youtube]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NookaPavan/NookaPavan)
 
