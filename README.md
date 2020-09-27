@@ -60,9 +60,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=NookaPavan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 
-[website]: https://github.com/NookaPavan/NookaPavan
+[website]: https://github.com/NookaPavan
 [twitter]: google.com
 [youtube]: https://www.youtube.com/channel/UC_qRV7wvFlFgpxC40Dgubsw
 [instagram]: https://www.instagram.com/pa_1_rockz007
 [linkedin]: https://www.linkedin.com/in/pavan-nooka-a6705918b
-[nothing]: https://github.com/NookaPavan/NookaPavan
+[nothing]: https://github.com/NookaPavan
