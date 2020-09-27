@@ -1,5 +1,7 @@
 ### Hi there, I'm Pavan - aka [l_user][website] 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=NookaPavan/NookaPavan)
+
 ## I'm a Full Stack Web Developer, Bug Hunter, Chess Player, and many More!
 
 - 🔭 I’m currently working on my [Full Stack Skills][website]!
