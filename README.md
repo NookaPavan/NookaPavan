@@ -1,6 +1,9 @@
 ### Hi there, I'm Pavan - aka [l_user][website] 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NookaPavan/NookaPavan)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)][linkedin]
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)][instagram]
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)][youtube]
 
 ## I'm a Full Stack Web Developer, Bug Hunter, Chess Player, and many More!
 
