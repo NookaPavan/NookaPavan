@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Game 7 || Striking Mate || thechessnuts vs FORCE91](https://www.youtube.com/watch?v=s1DC0V60LBs)
 - [Game 6 || Queen's Gambit Accepted || thechessnuts vs vladimir82](https://www.youtube.com/watch?v=j_55vN6DMs8)
 - [Game 5 || Englund Gambit || thechessnuts vs vaccce](https://www.youtube.com/watch?v=Ye8p-8aa4_w)
 - [Game 4 || Horwitz Defense || thechessnuts vs Ziebgr23](https://www.youtube.com/watch?v=Np6TbSvXvAs)
 - [Game 3 || Zukertort Variation || thechessnuts vs J_Redd](https://www.youtube.com/watch?v=xsgZhthzpuM)
-- [Game 2 || Rooks Combo || King Slayer](https://www.youtube.com/watch?v=9Kq0H-TfRn0)
 <!-- YOUTUBE:END -->
 
 ---
