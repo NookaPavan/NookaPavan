@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Game 10 || Caro-Kann Advance Variation (II) || thechessnuts vs RahulRM13](https://www.youtube.com/watch?v=PKKkEvIMdQM)
+- [Game 10 || Caro-Kann Advance Variation &lpar;II&rpar; || thechessnuts vs RahulRM13](https://www.youtube.com/watch?v=PKKkEvIMdQM)
 - [Game 9 || English Defense || thechessnuts vs bipinmahto](https://www.youtube.com/watch?v=gEITa3ZxpLg)
 - [Game 8 || Modern, Triangle System || thechessnuts vs jdamata](https://www.youtube.com/watch?v=GZ8JejhnLCA)
 - [Game 7 || Striking Mate || thechessnuts vs FORCE91](https://www.youtube.com/watch?v=s1DC0V60LBs)
-- [Game 6 || Queen's Gambit Accepted || thechessnuts vs vladimir82](https://www.youtube.com/watch?v=j_55vN6DMs8)
+- [Game 6 || Queen&#39;s Gambit Accepted || thechessnuts vs vladimir82](https://www.youtube.com/watch?v=j_55vN6DMs8)
 <!-- YOUTUBE:END -->
 
 ---
