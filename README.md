@@ -63,6 +63,6 @@
 [website]: https://github.com/NookaPavan
 [twitter]: google.com
 [youtube]: https://www.youtube.com/channel/UC_qRV7wvFlFgpxC40Dgubsw
-[instagram]: https://www.instagram.com/pa_1_rockz007
+[instagram]: https://www.instagram.com/pavan.on.binge
 [linkedin]: https://www.linkedin.com/in/pavan-nooka-a6705918b
 [nothing]: https://github.com/NookaPavan
